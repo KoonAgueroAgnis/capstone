@@ -1,6 +1,6 @@
 # capstone
 ## Title Proposal *_(june 16)_*
-
+```
 I. Introduction (general to specific + situational analysis to your locale/study + the proposal to solve the problem)
   a. Project Context / Background of the Study
   b. Purpose / Description of the System
