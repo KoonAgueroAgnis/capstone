@@ -5,11 +5,11 @@ I. Introduction (general to specific + situational analysis to your locale/study
   a. Project Context / Background of the Study
   b. Purpose / Description of the System
   c. Statement of the problem (general and specific) (to be answer accordingly with objectives)
-  d. Objectives of the Project  (general and specific)
+  d. Objectives of the Project  (general and specific)      ##(june 23)
       (setup) - data(needed information),people(persons involved),process
       (problems)
       (processes to be computerized)
-  e. Scope and Limitation of the Project
+  e. Scope and Limitation of the Project      ##(june30)
   f. Theoritical Framework
   g. Significance of the project
   h. Definition of Terms (Terms defined as operational/how it is used unto something and Acronyms must defined after.
